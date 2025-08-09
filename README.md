@@ -6,7 +6,9 @@ DETALLES DE LA APP
 Es una aplicacion web desarrollada con JavaScript, CSS, HTML la cual permite a los usuarios
 
 -Ingresar nombres
+
 -Vizualizar los nombres ingresados
+
 -Sortea a un amigo de los ombres que agrego el usuario
 
 ¿COMO INSTALAR EL PROYECTO?
