@@ -15,6 +15,7 @@ Es una aplicacion web desarrollada con JavaScript, CSS, HTML la cual permite a l
 git clone https://github.com/Dante5300/Challange-Alura.git
 
 2.- Abre la carpeta del proyecto en tu aditor de codigo
+
 3.- Ejecuta el proyecto con el archivo ```index.html``` en tu navegador web
 
 Vista previa de la aplicacion web
