@@ -12,6 +12,7 @@ Es una aplicacion web desarrollada con JavaScript, CSS, HTML la cual permite a l
 ¿COMO INSTALAR EL PROYECTO?
 
 1.- Clona el reporitorio en tu carpeta seleccionada
+
 git clone https://github.com/Dante5300/Challange-Alura.git
 
 2.- Abre la carpeta del proyecto en tu aditor de codigo
