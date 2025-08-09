@@ -10,6 +10,7 @@ Es una aplicacion web desarrollada con JavaScript, CSS, HTML la cual permite a l
 -Sortea a un amigo de los ombres que agrego el usuario
 
 ¿COMO INSTALAR EL PROYECTO?
+
 1.- Clona el reporitorio en tu carpeta seleccionada
 git clone https://github.com/Dante5300/Challange-Alura.git
 
