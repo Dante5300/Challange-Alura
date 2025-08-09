@@ -25,4 +25,8 @@ Vista previa de la aplicacion web
 
 ![alt text](./assets/image.png)
 
+- Puedes provar el proyecto en el siguiente enlace 
+
+https://dante5300.github.io/Challange-Alura/
+
 Gracias por visitar este repositorio, puedes mejorar y/o contibuir en este proyecto, ya que es de codigo abierto
